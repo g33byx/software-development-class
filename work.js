@@ -1,4 +1,4 @@
- let student = "gbenga shola ade dupe";
+ let student = "gbenga and dupe";
 function greet(name) {
   return `hello ${name}?`;
 }
